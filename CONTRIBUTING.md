@@ -21,14 +21,16 @@ If you find a bug or have a suggestion for an enhancement :
 
 ### Submitting Pull Requests
 
-1. Fork the repository and create your own branch from `dev` branch.
-2. follow this format for naming branches:
+1. Fork the repository in your own account
+2. Set upstream on your local repository
+3. Create your own branch from `dev` branch.
+4. Follow this format for naming branches:
    - `features/new-profile-page`
    - `issues/fix-authentication-issue`
-3. Make sure your code follows our [Coding Guidelines](#coding-guidelines).
-4. Commit your changes using clear and descriptive commit messages .
-5. Push your changes to your forked repository.
-6. Submit a pull request to the `dev` branch of this repository. Please include a detailed description of your changes.
+5. Make sure your code follows our [Coding Guidelines](#coding-guidelines).
+6. Commit your changes using clear and descriptive commit messages .
+7. Push your changes to your forked repository.
+8. Submit a pull request to the `dev` branch of this repository. Please include a detailed description of your changes.
 
 We'll review your pull request as soon as possible. Feedback and suggestions are always welcome.
 
